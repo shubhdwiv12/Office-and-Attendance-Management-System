@@ -1,0 +1,12 @@
+body{
+	background-color:#f7f5dc;
+}
+.form{
+	margin-top: 50px;
+	width:800px;
+	margin-left: 150px;
+}
+.details{
+	padding: 6px;
+	margin-bottom: 10px;
+}
